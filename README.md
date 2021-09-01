@@ -1,3 +1,5 @@
+# Numpy实现主流ML模型，具体介绍：https://numpy-ml.readthedocs.io/en/latest/  
+
 # numpy-ml
 Ever wish you had an inefficient but somewhat legible collection of machine
 learning algorithms implemented exclusively in NumPy? No?
